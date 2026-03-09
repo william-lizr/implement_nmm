@@ -5,7 +5,7 @@
 
 ```
 implement_nmm/
-├── modules/
+├── nmm/
 │   ├── currentdrivers.py
 │   ├── integrators.py
 │   ├── neuralmassmodels.py
