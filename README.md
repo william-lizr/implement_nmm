@@ -37,7 +37,6 @@ git clone https://github.com/william-lizr/implement_nmm.git
 
 3. Enter the directory (folder) you just cloned:
 ```bash
-# download code from github
 cd implement_nmm
 ```
 
