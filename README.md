@@ -27,12 +27,12 @@ implement_nmm/
 # How to use the scripts
 
 1. Open command line interface 'cmd'
-   1. Either: open `cmd.exe` and then go to you desired directory via ` cd https://github.com/william-lizr/implement_nmm.git `
+   1. Either: open `cmd.exe` and then go to you desired directory via ` cd <path> `
    2. Or: open your desired folder > right click in window > click on ` open in terminal `
 2. Clone repository from github:
 ```bash
 # download code from github
-git clone <link>
+git clone https://github.com/william-lizr/implement_nmm.git
 ```
 
 3. Enter the directory (folder) you just cloned:
