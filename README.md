@@ -19,6 +19,7 @@ implement_nmm/
 │   ├── testingcurrentsdrivers.py
 │   └── testingintegrators.py
 │
+├── .gitignore
 ├── README.md
 └── requirements.txt
 ```
