@@ -15,7 +15,7 @@ class EulerIntegrator(Integrator):
                   derivation_equation,
                   state: dict[str, int],
                   time: float,
-                  driving_current: Callable([])
+                  driving_current: Callable[[int], int]
                   ) -> dict[str, int]:
 
         # for each variable in the state vector - use Euler to change value
