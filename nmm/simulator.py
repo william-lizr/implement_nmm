@@ -54,7 +54,7 @@ class Simulator:
                                             time=x * self.step_size,
                                             driving_current=self.driving_current)
 
-            print(f'Step: {x}, time: {integrated['time']}, state vector: {integrated['state_vector']}')
+            print(f'Step: {x}, time: {integrated["time"]}, state vector: {integrated["state_vector"]}')
 
             self.state_timeseries['time'].append(integrated['time'])
 
